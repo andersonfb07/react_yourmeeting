@@ -1,0 +1,47 @@
+.sub_container_login {
+    background: linear-gradient(to bottom, #5d42bb, #54b5bc);
+    padding-top: 1.5em;
+    padding-left: 1.2em;
+    padding-right: 0.9em;
+    position: absolute; 
+    top: 53%;
+    right: 10%;
+    transform: translate(0, -50%);
+    text-align: center;
+    border-radius: 0.8em;
+    
+}
+
+.sub_container_login h1 { 
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.sub_container_login p { 
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.sub_container_register {
+    background: linear-gradient(to bottom, #5d42bb, #54b5bc);
+    padding: 1.5em;
+    position: absolute;
+    top: 53%;
+    right: 10%;
+    transform: translate(0, -50%);
+    text-align: center;
+    min-height: 470px;
+    min-width: 425px;
+    border-radius: 0.8em;
+    
+    
+}
+
+.sub_container_register h1 {
+    margin-bottom: 1em;
+}
+
+.sub_container_register p {
+    margin-bottom: 1.5em;
+}
+

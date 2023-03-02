@@ -1,0 +1,16 @@
+.count_down {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.count_down p {
+    background: linear-gradient(to bottom, #5d42bb, #54b5bc);
+    padding: 1em;
+    border-radius: 0.9em;
+}
+
+.count_down h3 {
+    font-size: 13px;
+    font-weight: 500;
+}

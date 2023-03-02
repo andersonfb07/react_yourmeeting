@@ -1,0 +1,9 @@
+.count_control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    gap: 2.2em;
+    padding-top: 2em;
+    padding-bottom: 1.5em;
+}
